@@ -1,0 +1,2 @@
+valid_user,customer@practicesoftwaretesting.com,welcome01,success
+invalid_user,invalid-user@practicesoftwaretesting.com,wrongpassword,failure
